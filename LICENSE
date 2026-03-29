@@ -1,21 +1,22 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 Александр Гавриленко
+Copyright (c) 2026 Gavrilenko Alexander Timofeevich (Гавриленко Александр Тимофеевич)
+ORCID: 0009-0009-4280-8052
+DOI: 10.5281/zenodo.19200934
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ОТКАЗ ОТ КОММЕРЦИАЛИЗАЦИИ И МАНИФЕСТ АВТОРА:
+Настоящий фреймворк «МУЛЬТИДЕЛЬТА» (включая все формулы, коэффициенты Ф, Пси, E и алгоритмы) является интеллектуальным даром автора человечеству. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Автор КАТЕГОРИЧЕСКИ ЗАПРЕЩАЕТ любое использование материалов данного репозитория в коммерческих целях. Это включает в себя:
+1. Продажу программного обеспечения на базе данных алгоритмов.
+2. Интеграцию метода в платные медицинские мониторы и системы без безвозмездного согласия автора.
+3. Извлечение любой прямой или косвенной прибыли из эксплуатации данной интеллектуальной собственности.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+УСЛОВИЯ ИСПОЛЬЗОВАНИЯ (CC BY-NC-SA 4.0):
+- Attribution (BY): Вы обязаны указывать автора и ссылку на данный репозиторий/DOI при любом использовании.
+- NonCommercial (NC): Вы НЕ имеете права использовать этот материал для коммерческой выгоды.
+- ShareAlike (SA): Любые производные работы (улучшения, дополнения) должны распространяться только на этих же условиях — бесплатно и открыто.
+
+Этот метод создан, чтобы спасать жизни, а не приносить прибыль корпорациям. Любая попытка коммерциализации «МУЛЬТИДЕЛЬТЫ» является нарушением воли автора и условий данной лицензии.
+
+Полный юридический текст лицензии: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ru
